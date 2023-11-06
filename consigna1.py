@@ -7,6 +7,6 @@ for i in range(2, numero):
         break
 
 if primo:
-    print("Es primo")
+    print("El numero es primo")
 else:
-    print("No es primo")
+    print("El numero no es primo")
